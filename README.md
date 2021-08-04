@@ -76,7 +76,7 @@ To make a transaction between your nodes you can deploy MyCrypto and open a wall
 
 ---
 
-### Since I was not able to mine with my nodes I could not get a balance in my wallet to make a transaction but if you have manage all you have to do is input your node 2 address and choose an amount to send just make sure you are connected to your custom network which you created with the same Chain/network ID (The one you saved while doing the set up :wink: )
+### Since I was not able to mine with my nodes I could not get a balance in my wallet to make a transaction but if you have manage to make it work, all you have to do is input your node 2 address and choose an amount to send, just make sure you are connected to your custom network which you created with the same Chain/network ID as the set up (The one you saved while doing the set up :wink: )
 
 ---
 ![Connected_to_custome](screenshots/zebramycrypto.png)
