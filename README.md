@@ -2,7 +2,7 @@
 
 Download the relvant version of [geth]( https://geth.ethereum.org/downloads/)  make sure to ge tthe one with **Tools**
 
-**Make sure to save the "pubic address key" and "path of secret key file" of your new nodes**
+:star: **Make sure to save the "public address key" and "path of secret key file" of your new nodes** :star:
 
 Locate the folder where your geth is using your terminal and do as follows:
 
@@ -18,9 +18,9 @@ Then type ``` ./puppeth ``` and name your network
 
 Then set up your new genesis and choose the "Clique- proof-of-authority option"
 
-For the accounts that are allowed to sealed you need to include your nodes pubic address key
+For the accounts that are allowed to sealed you need to include your nodes public address key
 
-**Remember your chain/network ID when doing the set up since you will need it to create a custom network in MyCrypto**
+:bangbang: **Remember your chain/network ID when doing the set up since you will need it to create a custom network in MyCrypto**:bangbang:
 
 ---
 ![Set_up](screenshots/zebrabank1.png)
@@ -48,7 +48,7 @@ NODE 1
 ./geth --datadir node1 --unlock "<YOUR NODE ONE ADDRESS>" --mine --rpc --allow-insecure-unlock
 
 ```
-**TAKE NOTE OF YOUR ENODE ADDRESS ONCE YOU RAN THE COMMAND (YOU WILL NEED IT FOR NODE 2)**
+:bangbang: **TAKE NOTE OF YOUR ENODE ADDRESS ONCE YOU RAN THE COMMAND (YOU WILL NEED IT FOR NODE 2)** :bangbang:
 
 NODE 2 
 ```
@@ -56,10 +56,10 @@ NODE 2
 
 ```
 ---
-###Note:
+:anger: Note:
 I was not able to mine since I consistenly used got the following error.
 at the begging I thought it was because my ganache was running but it did not work even after quiting it or restarting my computer.
-
+ :broken_heart: :broken_heart: :broken_heart: :broken_heart: :broken_heart: :broken_heart: :broken_heart: :broken_heart:
 ---
 ![Node1_error](screenshots/node1err.png)
 
