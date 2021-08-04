@@ -57,8 +57,8 @@ NODE 2
 ```
 ---
 :anger: Note:
-I was not able to mine since I consistenly used got the following error.
-at the begging I thought it was because my ganache was running but it did not work even after quiting it or restarting my computer.
+I was not able to mine since I consistenly got the following error (see images below)
+At the begging I thought it was because my ganache was running but it did not work even after quiting it, restarting my computer or redoing everything multiple times.
  :broken_heart: :broken_heart: :broken_heart: :broken_heart: :broken_heart: :broken_heart: :broken_heart: :broken_heart:
 ---
 ![Node1_error](screenshots/node1err.png)
