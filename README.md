@@ -57,7 +57,7 @@ NODE 2
 ```
 ---
 
-###NOTE
+###Note
 
 I was not able to mine since I consistenly used got the following error.
 at the begging I thought it was because my ganache was running but it did not work even after quiting it or restarting my computer.
