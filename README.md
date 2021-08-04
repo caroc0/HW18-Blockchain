@@ -2,7 +2,7 @@
 
 ## Deploying nodes and configuring them to make a transaction localy using [MyCrypto App](https://mycrypto.com) 
 
-Download the relvant version of [geth]( https://geth.ethereum.org/downloads/)  make sure to ge tthe one with **Tools**
+Download the relvant version of [geth]( https://geth.ethereum.org/downloads/)  make sure to get the one with **Tools**
 
 :star: **Make sure to save the "public address key" and "path of secret key file" of your new nodes** :star:
 
