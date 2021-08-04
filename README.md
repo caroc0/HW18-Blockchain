@@ -55,7 +55,9 @@ NODE 2
 ./geth --datadir node2 --unlock "<YOUR NODE TWO ADDRESS>" --mine --port 30304 --bootnodes "<<ENODE FROM NODE ONE>>" --ipcdisable --allow-insecure-unlock
 
 ```
-##NOTE
+---
+
+###NOTE
 
 I was not able to mine since I consistenly used got the following error.
 at the begging I thought it was because my ganache was running but it did not work even after quiting it or restarting my computer.
@@ -75,7 +77,7 @@ To make a transaction between your nodes you can deploy MyCrypto and open a wall
 ![using_keystore_file](screenshots/zebraloginwkeystore.png)
 
 ---
-## Since I was not able to mine with my nodes I could not get a balance in my wallet to make a transaction but if you have manage all you have to do is input your node 2 address and choose an amount to send 
+### Since I was not able to mine with my nodes I could not get a balance in my wallet to make a transaction but if you have manage all you have to do is input your node 2 address and choose an amount to send 
 ---
 ![Connected_to_custome](screenshots/zebramycrypto.png)
 
